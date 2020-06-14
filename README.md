@@ -1,5 +1,5 @@
 # Food_Classifier
-### This repository the contains source code a of food classifier based on the deep learning with fine tunning of a pretrained model.
+### This repository the contains source code a of food classifier based on the deep learning with fine tunning of a pretrained model which will classify the category of food.
 # Dataset
 ### The dataset consists of 16,000 images belonging to 11 major food categories:
 Bread (1724 images)\
