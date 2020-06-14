@@ -25,7 +25,7 @@ To train the model run the file train.py
 
 # Prediction
 to predict the result on the new image pass the path of image in commmnad line while running the predict.py\
-python predict.py --image C:\Users\PC\Desktop\Seafood/8_186.jpg
+ example:- python predict.py --image C:\Users\PC\Desktop\Seafood/8_186.jpg
 
 
 
