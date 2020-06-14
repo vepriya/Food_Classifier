@@ -38,9 +38,9 @@ def plot_training(H, N, plotPath):
 
 # derive the paths to the training, validation, and testing
 # directories
-trainPath = "dataset\training"
-valPath = "dataset\validation"
-testPath ="dataset\evaluation"
+trainPath = "training"
+valPath = "validation"
+testPath ="evaluation"
 
 # determine the total number of image paths in training, validation,
 # and testing directories
