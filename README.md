@@ -21,6 +21,11 @@ validation (3200 images)
 
 # training
 fine tuned a VGG16 model to build the classifier. remove the head of model, build a new fully connected head and place it on top of the original architecture of VGG16. trained the model on food dataset. 
+To train the model run the file train.py
+
+# prediction
+to predict the result on the new image pass the path of image in commmnad line while running the predict.py
+python predict.py --image C:\Users\PC\Desktop\Seafood/8_186.jpg
 
 
 
