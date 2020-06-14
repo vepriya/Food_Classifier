@@ -14,9 +14,13 @@ Seafood (1,505 images)\
 Soup (2,500 images)\
 Vegetable/fruit (1,172 images)
 
-organised the dataset according to the following manner to utlize the keras ImageDatagenerator for data augumentation.images are stored in the directory with their corresponding class/label name
+organised the dataset according to the following manner to utlize the keras ImageDatagenerator for data augumentation.images are stored in the directory with their corresponding class/label name\
 evaluation (3000 images)\
 training (9800 images)\
 validation (3200 images)
+
+# training
+### fine tuned a VGG16 model to build the classifier.remove the head of model, build a new fully connected head and place it on top of the original architecture of VGG16. trained the model on food dataset. 
+
 
 
