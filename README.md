@@ -20,7 +20,7 @@ training (9800 images)\
 validation (3200 images)
 
 # training
-### fine tuned a VGG16 model to build the classifier.remove the head of model, build a new fully connected head and place it on top of the original architecture of VGG16. trained the model on food dataset. 
+fine tuned a VGG16 model to build the classifier. remove the head of model, build a new fully connected head and place it on top of the original architecture of VGG16. trained the model on food dataset. 
 
 
 
